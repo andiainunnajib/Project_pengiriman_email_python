@@ -12,7 +12,7 @@ message = "Thank you"
 
  
 # setup the parameters of the message
-password = "b@koCil123"
+password = "------"
 msg['From'] = "akukamubisa12@gmail.com"
 msg['To'] = "andiainunnajibb@gmail.com"
 msg['Subject'] = "Project 1"
