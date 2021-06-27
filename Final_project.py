@@ -12,9 +12,10 @@ message = "Thank you"
 
  
 # setup the parameters of the message
-password = "------"
+password = "pass"
 msg['From'] = "akukamubisa12@gmail.com"
-msg['To'] = "andiainunnajibb@gmail.com"
+msg['To'] = "andiainunnajibb@gmail.com" ,'John@example.com', 'mike@example.com'
+
 msg['Subject'] = "Project 1"
  
 # add in the message body
