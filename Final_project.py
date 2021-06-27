@@ -12,9 +12,10 @@ message = "Thank you"
 
  
 # setup the parameters of the message
-password = "pass"
+password = "pass2w"
 msg['From'] = "akukamubisa12@gmail.com"
 msg['To'] = "andiainunnajibb@gmail.com" ,'John@example.com', 'mike@example.com'
+#msg['To'] = open('datasets/receiver_list.txt', 'r')
 
 msg['Subject'] = "Project 1"
  

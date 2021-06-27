@@ -8,6 +8,8 @@ email_user = 'akukamubisa12@gmail.com'
 email_password = '======='
 email_send = 'andiainunnajibb@gmail.com'
 
+# email_send = open('datasets/receiver_list.txt', 'r')
+
 subject = 'subject'
 
 msg = MIMEMultipart()
