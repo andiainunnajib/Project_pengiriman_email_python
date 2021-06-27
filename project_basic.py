@@ -9,12 +9,13 @@ msg = MIMEMultipart()
  
  
 message = "Thank you"
+
  
 # setup the parameters of the message
 password = "b@koCil123"
-msg['From'] = "andiainunnajibb@gmail.com"
-msg['To'] = "andiainunnajib59@gmail.com"
-msg['Subject'] = "Subscription"
+msg['From'] = "akukamubisa12@gmail.com"
+msg['To'] = "andiainunnajibb@gmail.com"
+msg['Subject'] = "Project 1"
  
 # add in the message body
 msg.attach(MIMEText(message, 'plain'))
