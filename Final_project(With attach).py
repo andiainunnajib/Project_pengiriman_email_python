@@ -18,8 +18,8 @@ def get_email(email_send):
 subject = 'subject'
 
 
-email_user = 'akukamubisa12@gmail.com'
-email_password = 'b@koCil123'
+email_user = 'your email'
+email_password = 'your pass'
 email_send = 'datasets\receiver_list.txt'
 
 for email1 in email_send:
